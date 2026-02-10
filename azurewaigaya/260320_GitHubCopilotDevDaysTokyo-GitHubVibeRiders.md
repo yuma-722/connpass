@@ -1,4 +1,9 @@
-3月15日〜4月30日の期間、世界中で開催される「**GitHub Copilot Dev Days**」 を  [GitHub Vibe Riders](https://www.youtube.com/@GitHubVibeRiders)主催で開催します！
+<span style="color: red;"><strong>開催日は金曜日ですが祝日です！！</strong></span>
+
+---
+
+3月15日〜4月30日の期間、世界中で開催される「**GitHub Copilot Dev Days**」 を  [GitHub Vibe Riders]
+(https://www.youtube.com/@GitHubVibeRiders)主催で開催します！
 
 なんと、セッション登壇者は自分が好きな曲をリクエストすれば登壇中にDJが流してくれます！！！アガること間違いなし！
 
@@ -43,13 +48,15 @@ DJ × セッション × ハンズオン でわいがや楽しみましょう！
 | 13:30-14:00 | 受付 |
 | 14:00-14:05 | オープニング |
 | 14:05-14:10 | 会場スポンサーセッション（アララ株式会社様） |
-| 14:10-14:50 | 最近の GitHub Copilot Update（40分） |
+| 14:10-14:50 | 最近の GitHub Copilot Update by [Y10A（@Yuhei_FUJITA）さん ](https://x.com/Yuhei_FUJITA) ＆ [Maki（@yuma_prog）](https://x.com/yuma_prog) |
 | 14:50-15:40 | ショートセッション（10分×5人） |
 | 15:40-15:50 | 休憩（10分） |
 | 15:50-16:50 | ハンズオン・ワークショップ（60分） |
 | 16:50-17:00 | クロージング・片付け |
 
 ※上記は目安です。進行により多少前後する場合があります。
+
+17時以降、希望者で懇親会をやる可能性があります（未定）
 
 ## ショートセッション募集（10分）
 
