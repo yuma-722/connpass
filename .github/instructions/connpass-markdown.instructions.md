@@ -48,7 +48,7 @@ https://help.connpass.com/organizers/markdown
 ### 画像
 - `![alt](https://...)`
 - `![alt](https://... "title")`
-- 画像サイズを変えたい場合は HTML の `img` タグを使用します（例: `<img src="..." width="500">`）
+- 画像サイズを変えたい場合に限り HTML の `img` タグを使用します（例: `<img src="..." width="500">`）。それ以外の目的での `img` タグの使用は避けてください。
 
 ## HTML（許可タグ/属性）
 
